@@ -29,7 +29,7 @@
 
 ## 📊 My Github Stats
 
-  <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admunzi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="Daniel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admunzi&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" /></a>
   <br/>
 
 ## Connect with me:
@@ -40,9 +40,3 @@
 <a href = "https://www.instagram.com/mr.ayala/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-<!-- ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Admunzi&color=blueviolet">
-</a>
-<a href="https://github.com/Admunzi?tab=followers"><img src="https://img.shields.io/github/followers/Admunzi?label=Followers&style=social" alt="GitHub Badge"></a> -->
