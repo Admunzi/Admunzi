@@ -3,12 +3,12 @@
 <img src="https://static.wixstatic.com/media/a44335_8d3913e1f95145988e3befbf3c45d5c2~mv2.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
  
 <p align="left"> 
-  🌎 Hello World, my name is Dani. I'm studying <strong>Web applications development</strong>.
+  🌎 Hello World, my name is Dani. I am a <strong>Web applications development </strong>student.
 </p>
  
  
  <p align="left"> 
-  💬 Languages: <strong>Español</strong>, <strong>English</strong> (Intermediate in reading and writing, studying to be fluent).
+  💬 Languages: <strong>Spanish</strong>, <strong>English</strong> (Intermediate in reading and writing, studying to be fluent).
 </p>
 
 
@@ -37,6 +37,6 @@
 
 <a href = "https://www.linkedin.com/in/daniel-ayala-cantador-395669185/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Admunzi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mr.ayala/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto: daniayalainformatica@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 </p>
