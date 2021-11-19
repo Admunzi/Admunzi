@@ -1,6 +1,6 @@
 
 
-<img src="https://static.wixstatic.com/media/a44335_8d3913e1f95145988e3befbf3c45d5c2~mv2.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="principal.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
  
 <p align="left"> 
   🌎 Hello World, my name is Dani. I am a <strong>Web applications development </strong>student.
