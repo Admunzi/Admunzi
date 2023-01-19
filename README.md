@@ -19,7 +19,6 @@
 
 <p>&nbsp;<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=admunzi&show_icons=true&theme=radical&hide_border=true&locale=en" alt="admunzi" /></p>
 
-<p><img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=admunzi&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="admunzi" /></p>
 
 
 
