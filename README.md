@@ -1,7 +1,3 @@
-
-
-<p align="left"> <a href="https://twitter.com/admunzi" target="blank"><img src="https://img.shields.io/twitter/follow/admunzi?logo=twitter&style=for-the-badge" alt="admunzi" /></a> </p>
-
 <h1 align="center">Hello 🌎, I'm Dani</h1>
 <h3 align="center">A passionate <strong>Web applications development</strong>, <strong>Artificial Intelligence</strong> and <strong>Big Data</strong> from Spain</h3>
 
