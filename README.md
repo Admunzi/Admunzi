@@ -1,26 +1,40 @@
-<h1 align="center">Hello 🌎, I'm Dani</h1>
-<h3 align="center">A passionate <strong>Web applications development</strong>, <strong>Artificial Intelligence</strong> and <strong>Big Data</strong> from Spain</h3>
+<img src="principal.gif" width="300px" align="right" alt="Computador">
 
-<img src="principal.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
- 
-<br>
-<br>
+# Hello 🌎, I'm Dani
 
-## 🚀 Languages and Tools:
+<p align="left">
+I am a software developer passionate about AI and Big Data. I have experience in developing web applications, and machine learning systems.
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<br/>
+I am interested in applying AI and Big Data to solve real-world problems. I enjoy working on challenging projects that have a positive impact on society.
+</p>
 
-## 📊 My Github Stats
+## 🚀 Some Projects
 
-<p>&nbsp;<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=admunzi&show_icons=true&theme=radical&hide_border=true&locale=en" alt="admunzi" /></p>
+* **Recognition using artificial vision with Django** [🔗](https://github.com/Admunzi/Artificial-Vision-Recognition-with-Django)
+    * This program recognizes different objects from a video. Technologies used: Yolov8 and Django.
+  
+* **AI Brick Breaker** [🔗](https://github.com/Admunzi/AI-Brick-Breaker)
+    * Arkanoid game with an AI that plays for you. Uses reinforcement learning to learn to play.
+* **AI Live Translator AWS** [🔗](https://github.com/Admunzi/AI-Live_Translator_AWS)
+    * The program transcribes speech to text, translates the text to the target language, and then converts the text back to speech.
+* **AI PoseBall Smash Game** [🔗](https://github.com/Admunzi/AI-PoseBall-Smash-Game)
+    * This is a game where you have to smash the ball with your hands, head, or feet. The ball will be moving in a random direction, and you have to smash it with your hand.
+* **AI Podcast** [🔗](https://github.com/Admunzi/AI-Podcast)
+    * Application that generates a podcast episode about curiosities that you tell it with ChatGPT. 
+* **AI Recognize License Plates** [🔗](https://github.com/Admunzi/AI-Recognize-license-plates)
+    * This is an application to recognize license plates from images.
+
+## 🛠️ Languages and Tools 
+* **Programming languages:** Python, JavaScript, Java, PHP
+* **Frameworks:** Django, Flask
+* **Databases:** MySQL, PostgreSQL, MongoDB
+* **Tools:** TensorFlow, PyTorch, scikit-learn, git, docker, hadoop. 
 
 
-
-
-## Connect with me:
+## 🔗 Connect with me
 <p>
-  <a href = "https://www.linkedin.com/in/daniel-ayala-cantador-395669185/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/Admunzi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href = "mailto: daniayalainformatica@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href="mailto:daniayalainformatica@gmail.com" target="blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="fasfsa" height="75" /></a> 
+<a href="https://twitter.com/admunzi" target="blank"><img src="https://media.itsnicethat.com/images/twitter-x-logo-graphic-design-itsnicethat-01.width-1440_WgWw7Xq65qfzL1dm.jpg" alt="fsaf" height="70" /></a> 
+<a href="https://www.linkedin.com/in/daniel-ayala-cantador/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="fasfsa" height="70"/></a>
+
 </p>
